@@ -8,12 +8,12 @@ Add reference to your code like this.
 using Mzsoft.BCrypt;
 ```
 
-To hash a password for the first time, call the ```csharpHashPassword()``` method with a random salt, like this:
+To hash a password for the first time, call the ```csharp HashPassword() ``` method with a random salt, like this:
 ```csharp
 string pass = BCrypt.HashPassword("password", BCrypt.GenerateSalt());
 ```
 
-To check whether a plain text password matches one that has been hashed previously, use the ```csharpCheckPassword()``` method:
+To check whether a plain text password matches one that has been hashed previously, use the ```csharp CheckPassword() ``` method:
 ```csharp
 if (BCrypt.CheckPassword("password", pass)) 
 { 
@@ -24,7 +24,7 @@ else
   Console.WriteLine("Don’t Match"); 
 }
 ```
-The ```csharpGenerateSalt()``` method takes an optional integer parameter that determines the computational complexity of the hashing:
+The ```csharp GenerateSalt() ``` method takes an optional integer parameter that determines the computational complexity of the hashing:
 ```csharp
 string SaltStrong30 = BCrypt.GenerateSalt(30); string SaltStrong31 = BCrypt.GenerateSalt(31);
 ```
