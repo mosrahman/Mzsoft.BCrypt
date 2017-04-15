@@ -26,7 +26,8 @@ else
 ```
 The ``` GenerateSalt() ``` method takes an optional integer parameter that determines the computational complexity of the hashing:
 ```csharp
-string SaltStrong30 = BCrypt.GenerateSalt(30); string SaltStrong31 = BCrypt.GenerateSalt(31);
+string SaltStrong30 = BCrypt.GenerateSalt(30); 
+string SaltStrong31 = BCrypt.GenerateSalt(31);
 ```
 
 The amount of work increases exponentially (2**number). The default number is 10, and the valid range is 4 to 31.
