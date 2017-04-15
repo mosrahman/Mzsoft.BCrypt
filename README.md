@@ -5,7 +5,7 @@ BCrypt encryption utility implemented blowfish cipher trageted for .NET Standard
 
 Add reference to your code like this.
 ```csharp
-Mzsoft.BCrypt;
+using Mzsoft.BCrypt;
 ```
 
 To hash a password for the first time, call the HashPassword() method with a random salt, like this:
