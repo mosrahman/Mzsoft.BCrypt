@@ -1,7 +1,7 @@
-#Mzsoft.BCrypt
+# Mzsoft.BCrypt #
 
 BCrypt encryption utility implemented blowfish cipher trageted for .NET Standard. Supported platforms are .NET Core, .NET Framework, Xamarin.iOS, Xamarin.Android, Universal Windows Platform, Windows, Windows Phone also Windows Phone Silverlight
-#How to use it
+# How to use it #
 
 Add reference to your code like this.
 ```csharp
