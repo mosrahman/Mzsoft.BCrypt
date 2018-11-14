@@ -1,0 +1,16 @@
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.deps.json
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.xml
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.dll
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.pdb
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.csprojResolveAssemblyReference.cache
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.AssemblyInfo.cs
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.dll
+E:\Dev\Bcrypt\Bcrypt Standard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.pdb
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.deps.json
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.xml
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.dll
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.pdb
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.AssemblyInfo.cs
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.dll
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.pdb
+E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Release\netstandard1.0\Mzsoft.BCrypt.csprojResolveAssemblyReference.cache

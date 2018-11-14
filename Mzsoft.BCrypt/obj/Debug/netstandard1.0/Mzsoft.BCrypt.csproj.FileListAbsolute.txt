@@ -1,0 +1,7 @@
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Debug\netstandard1.0\Mzsoft.BCrypt.deps.json
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Debug\netstandard1.0\Mzsoft.BCrypt.dll
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Debug\netstandard1.0\Mzsoft.BCrypt.pdb
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Debug\netstandard1.0\Mzsoft.BCrypt.csprojResolveAssemblyReference.cache
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Debug\netstandard1.0\Mzsoft.BCrypt.AssemblyInfo.cs
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Debug\netstandard1.0\Mzsoft.BCrypt.dll
+c:\users\mosta\documents\visual studio 2017\Projects\Mzsoft.BCrypt\Mzsoft.BCrypt\obj\Debug\netstandard1.0\Mzsoft.BCrypt.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mzsoft.BCrypt.standard</id>
+    <version>1.0.0</version>
+    <authors>Mostafizur Rahman(mostafiz.cseju@gmail.com)</authors>
+    <owners>Mostafizur Rahman(mostafiz.cseju@gmail.com)</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BCrypt encryption utility implemented blowfish cipher trageted for .NET Standard.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017 (c) Mostafizur Rahman. All rights reserved.</copyright>
+    <tags>BCrypt, bcrypt.net, BCrypt.Net, bcrypt, Bcrypt.Net, Bcrypt</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.dll" target="lib\netstandard1.0\Mzsoft.BCrypt.dll" />
+    <file src="E:\Dev\Bcrypt\BcryptStandard\Mzsoft.BCrypt\Mzsoft.BCrypt\bin\Release\netstandard1.0\Mzsoft.BCrypt.xml" target="lib\netstandard1.0\Mzsoft.BCrypt.xml" />
+  </files>
+</package>
